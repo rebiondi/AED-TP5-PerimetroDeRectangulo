@@ -1,6 +1,6 @@
 /*TP #5 - Perimetro de Rectangulo - El usuario ingrese la base y la altura de un rectángulo y el programa después de validar los datos calcula el perímetro de dicho rectángulo
   Biondi, Rolando Ezequiel
-  12/05/215
+  11/05/215
 */
 
 #include <iostream>
