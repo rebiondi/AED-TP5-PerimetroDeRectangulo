@@ -1,6 +1,6 @@
 /*TP #5 - Perimetro de Rectangulo - El usuario ingrese la base y la altura de un rectángulo y el programa después de validar los datos calcula el perímetro de dicho rectángulo
   Biondi, Rolando Ezequiel
-  11/05/215
+  12/05/215
 */
 
 #include <iostream>
@@ -16,7 +16,7 @@ int main (){
 	b = getNumPositivo();
 	cout<<"\nIngrese la altura del rectangulo: ";
 	h = getNumPositivo();
-	cout<<"\nEl perimetro del rectangulo es "<<getPerimetro(h,b);
+	cout<<"\nEl perimetro del rectangulo es "<<getPerimetro(b, h);
 }
 
 double getNumPositivo(){
