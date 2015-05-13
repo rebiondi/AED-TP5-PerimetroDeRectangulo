@@ -35,3 +35,4 @@ double getNumPositivo(){
 double getPerimetro(double b, double h) {
     return 2*(b+h);
 }
+
